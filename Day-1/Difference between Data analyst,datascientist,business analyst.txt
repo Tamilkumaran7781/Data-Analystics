@@ -1,0 +1,15 @@
+Data Analyst:
+-> A data analyst is responsible for studying and analyzing complex and the latest data. They extract meaningful information from this raw data and find important trends for the organization.
+-> The analysis they make and the information they find help Data Scientists to manipulate and manage the data efficiently.
+
+Data Scientist:
+-> The job of a Data Scientist includes maintaining, manipulating, and building data models. They convert data into business strategies and also take part in planning business plans. The data models that they create help the organization take well-informed decisions and gain a competitive advantage.
+-> They are required to have excellent data visualization and decision-making skills alongside technical knowledge.
+-> They need to keep up with market trends and innovations in the data science field so that they can device better data models and business strategies.
+
+Business Analyst:
+-> Where Data Analysts and Data scientists work on data collected through different information sources, Business Analysts study market and business trends to analyze the organization's performance, business strategies, competitor’s performance, and more such business-related factors.
+-> They also analyze the different systems and business models and how they are integrated with technology.
+-> They define the organization’s needs and develop solutions that profit the various stakeholders of the business.
+
+    Thus, the main difference between Data Analysts and Business Analysts is core functionality. Business Analysts work on the development of business strategies by studying market trends; Data Analysts and Data Scientists work on developing data models which help Business Analysts develop business strategies.
