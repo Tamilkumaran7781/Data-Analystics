@@ -1,4 +1,0 @@
-Definition: Data Analytics involves examining data sets to draw conclusions about the information they contain, often with the aid of specialized software.
-Purpose: Helps organizations make informed decisions, improve processes, and understand patterns and trends.
-Key Steps: Collecting data, processing, analyzing, and interpreting results.
-Tools: Excel, SQL, Python, and visualization tools like Tableau.
